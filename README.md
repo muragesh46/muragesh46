@@ -1,10 +1,22 @@
 <div align="center">
 
 # Muragesh Mirje
-**Software Engineer & Full-Stack Developer**  
-*Building modular web architectures, real-time event systems, and applied computer vision applications.*
+### Full-Stack Software Engineer & AI Systems Developer
 
-[LinkedIn](https://www.linkedin.com/in/muragesh-mirje/) &nbsp;|&nbsp; [GitHub](https://github.com/muragesh46) &nbsp;|&nbsp; [Email](mailto:murageshmirje@gmail.com) &nbsp;|&nbsp; [Live Demos](#-featured-projects)
+*Building resilient web platforms, real-time distributed systems, and applied AI/ML architectures.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muragesh_Mirje-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muragesh-mirje/)
+[![Email](https://img.shields.io/badge/Email-murageshmirje%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:murageshmirje@gmail.com)
+[![Live Demos](https://img.shields.io/badge/Live_Demos-Explore_Projects-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#-featured-projects)
+
+<br/>
+
+<!-- Modern Curated Tech Stack Icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,java,react,tailwind,vite,nodejs,express,mongodb,docker,git,postman&theme=dark" alt="Tech Stack Icons" />
+</a>
 
 </div>
 
@@ -12,25 +24,25 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer based in Bengaluru, passionate about building robust, scalable web platforms and real-time distributed systems. My focus centers on:
+I am a Software Engineer based in Bengaluru, passionate about building robust, scalable web platforms, event-driven architectures, and intelligent AI-powered solutions.
 
-- **Modular Frontend Architecture:** Designing intuitive, highly interactive client interfaces using React, Tailwind CSS, and advanced state management.
-- **Event-Driven & MVC Backends:** Engineering REST APIs, real-time WebSocket communication pipelines (Socket.IO), and secure authentication systems with Node.js and Express.
-- **Applied Computer Vision:** Building real-time facial detection and recognition pipelines using Java, OpenCV, and Haar Cascade classifiers.
+* **Full-Stack Engineering:** Architecting responsive, high-performance web applications and real-time backend microservices using React, Node.js, Express, Socket.IO, and MongoDB with production cloud deployments.
+* **AI/ML & Intelligent Systems:** Developing applied computer vision pipelines (OpenCV, Haar Cascades, LBPH), integrating LLMs & RAG architectures (Google Gemini, NLP), and building automated agent workflows with n8n and Model Context Protocol (MCP).
 
 ---
 
 ## 🛠️ Technical Stack
 
-```
-Languages:        JavaScript (ES6+), Java, HTML5, CSS3, SQL
-Frontend:         React.js, Tailwind CSS, GSAP, Material-UI, EJS, Vite
-Backend:          Node.js, Express.js, Socket.IO, REST APIs, Passport.js, Multer
-Databases:        MongoDB, Mongoose ODM
-AI & Vision:      JavaCV, OpenCV (Haar Cascades, LBPH, Eigenfaces), Gemini API
-Cloud & DevOps:   Docker, Docker Compose, Vercel, Render, Cloudinary CDN
-Tools & Testing:  Git, GitHub, Maven, Jest, Vitest, Postman, ESLint
-```
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), Java (JDK 8+), HTML5, CSS3, SQL |
+| **Frontend** | React 19, Tailwind CSS, GSAP, Material-UI, Vite, EJS |
+| **Backend & APIs** | Node.js, Express.js, Socket.IO, RESTful APIs, Passport.js, Multer |
+| **Databases** | MongoDB, Mongoose ODM |
+| **AI, ML & Vision** | LLMs (Gemini API), RAG Architectures, NLP, OpenCV, JavaCV (Haar Cascades, LBPH) |
+| **Agents & Automation** | n8n Workflows, Model Context Protocol (MCP), Webhooks |
+| **Cloud & DevOps** | Docker, Docker Compose, Vercel, Render, Cloudinary CDN |
+| **Tools & Testing** | Git, GitHub, Maven, Postman, Jest, Vitest, ESLint |
 
 ---
 
@@ -39,17 +51,28 @@ Tools & Testing:  Git, GitHub, Maven, Jest, Vitest, Postman, ESLint
 ### 1. [WebOS — Browser-Based Desktop Operating System](https://github.com/muragesh46/web-os)
 > **Interactive multi-window desktop environment running entirely in the browser.**
 
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-Express_%26_Socket.IO-green?style=flat-square&logo=node.js)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
+
 * **What it does:** Recreates a complete desktop OS experience featuring draggable, resizable windows, taskbar application launcher, virtual terminal emulator, and an integrated AI assistant.
-* **Why it's interesting:** Implements a decoupled window management state engine using Zustand, optimized smooth window transitions using GSAP, and a containerized Node.js/Socket.IO backend with Docker support.
+* **Why it's interesting:** Implements a decoupled window management state engine using Zustand, fluid window transitions using GSAP physics, and a containerized Node.js/Socket.IO backend with Docker support.
 * **Tech Stack:** React 19, Vite, Tailwind CSS, Zustand, GSAP, Node.js, Express, Socket.IO, Docker, Vitest
 * **Links:** [Repository](https://github.com/muragesh46/web-os) &nbsp;|&nbsp; [Live Demo](https://web-os-beta-two.vercel.app)
 
 ---
+
 ### 2. [Face-Detection — Real-Time Computer Vision Pipeline](https://github.com/muragesh46/Face-Detection)
 > **Desktop facial detection, dataset generation, and model training system in Java.**
 
-* **What it does:** Detects faces from live webcam streams, captures custom training datasets, and classifies identities using multiple computer vision algorithms.
-* **Why it's interesting:** Implements JavaCV native bindings to OpenCV, combining Haar Feature-based Cascade Classifiers with LBPH (Local Binary Pattern Histograms) and Eigenfaces recognition algorithms in a standalone desktop application.
+[![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-JavaCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
+[![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=flat-square&logo=apache-maven)](https://maven.apache.org/)
+[![UI](https://img.shields.io/badge/UI-Java_Swing-blue?style=flat-square)](https://docs.oracle.com/javase/tutorial/uiswing/)
+
+* **What it does:** Ingests live webcam video feeds, captures standardized facial training datasets, and classifies identities in real time with confidence scoring.
+* **Why it's interesting:** Implements JavaCV native bindings to OpenCV, combining Haar Feature-based Cascade Classifiers with LBPH (Local Binary Pattern Histograms) and Eigenfaces recognition algorithms in a standalone desktop GUI.
 * **Tech Stack:** Java, JavaCV, OpenCV, Haar Cascades, LBPH, Java Swing, Maven
 * **Links:** [Repository](https://github.com/muragesh46/Face-Detection)
 
@@ -57,7 +80,7 @@ Tools & Testing:  Git, GitHub, Maven, Jest, Vitest, Postman, ESLint
 
 ## 📈 Engineering Competencies
 
-* **System Design & RESTful APIs:** Structuring maintainable controllers, middleware, data validation pipelines, and standardized error-handling patterns.
+* **System Design & RESTful APIs:** Structuring modular controllers, middleware, data validation pipelines, and standardized error-handling patterns.
 * **State Management & UI Dynamics:** Managing complex client states (windows, active processes, theme tokens) with declarative React paradigms.
 * **Containerization & Deployment:** Building multi-stage Dockerfiles and automating production rollouts on Vercel and Render.
 
@@ -65,6 +88,12 @@ Tools & Testing:  Git, GitHub, Maven, Jest, Vitest, Postman, ESLint
 
 ## 📬 Contact & Connect
 
-* **LinkedIn:** [linkedin.com/in/muragesh-mirje](https://www.linkedin.com/in/muragesh-mirje/)
-* **Email:** [murageshmirje@gmail.com](mailto:murageshmirje@gmail.com)
-* **Location:** Bengaluru, Karnataka, India
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muragesh_Mirje-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muragesh-mirje/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-murageshmirje%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murageshmirje@gmail.com)
+
+**Bengaluru, Karnataka, India**
+
+</div>
