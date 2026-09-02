@@ -1,126 +1,104 @@
-# <!-- Aesthetic Profile Banner -->
+<!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20There,%20I'm%20Muragesh%20Mirje%20👋&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%26%20AI%2FML%20Developer%20|%20Intelligent%20Automation%20%26%20Scalable%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23,28,32&height=240&section=header&text=Muragesh%20Mirje&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20%26%20AI%2FML%20Engineer%20%E2%80%A2%20Building%20Scalable%20Systems%20%26%20Automations&descFontSize=18&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/muragesh46">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Developer;n8n+%26+Intelligent+Automation+Specialist;Building+Scalable+Modern+Web+Systems;Turning+Ideas+into+Production-Ready+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Full+Stack+Software+Engineer;AI+%2F+Machine+Learning+Developer;n8n+%26+Intelligent+Automation+Architect;Crafting+Production-Ready+Modern+Web+Systems;Turning+Complex+Logic+into+Clean+Code" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/muragesh-mirje/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:murageshmirje@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://wa.me/918105588067"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  &nbsp;
+  <a href="tel:+918105588067"><img src="https://img.shields.io/badge/Call-+91_8105588067-181717?style=for-the-badge&logo=apple&logoColor=white" /></a>
+</p>
+
 ---
 
-### 💫 About Me
+### 💫 Executive Summary
 
 ```yaml
-name: Muragesh Mirje
-role: Full Stack & AI/ML Developer
-open_to: Full-Time Software Engineering Roles & Tech Collaborations
+Name: Muragesh Mirje
+Role: Full Stack & AI/ML Software Engineer
+Specialization: Full-Stack Web Architecture, Machine Learning Pipelines, Intelligent n8n Workflows
+Availability: Open for Full-Time Roles & High-Impact Engineering Collaborations
 ```
 
-- 🔭 **Currently working on:** Next-generation automation pipelines, modern web and AI applications, and backend systems.
-- 🌱 **Learning & Exploring:** Distributed Systems, Cloud Architectures, and AI-powered workflows.
-- 💼 **Recruiters & Engineering Teams:** I'm actively looking for full-time opportunities. Let's build something impactful together!
-- ⚡ **Core Strengths:** Fast execution, clean architecture, automated testing, and end-to-end product delivery.
+- 💡 **What I Do:** I design and build end-to-end web applications, scalable backend microservices, and AI-powered automation workflows that solve real business problems.
+- 🚀 **Core Expertise:** Modern Frontend (React/Next.js/TypeScript), Robust Backends (Node.js/FastAPI/PostgreSQL), AI/ML modeling (PyTorch/Scikit-Learn), and Autonomous Workflows (n8n/Playwright).
+- 🎯 **Why Hire Me:** I bring end-to-end product ownership — from architecture and clean system design to deployment, performance optimization, and reliable automation.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-#### 🤖 AI, Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
+<!-- Modern Aesthetic Skill Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,js,ts,react,nextjs,tailwind,vite,redux,nodejs,express,fastapi,postgres,mongodb,redis,docker,gcp,git,githubactions,linux,postman,cpp&perline=8&theme=dark" />
+</a>
 
-#### ⚡ Workflow Automation & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
+<br/><br/>
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-#### 🌐 Frontend & UI
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</p>
-
-#### ⚙️ Backend, APIs & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-#### ☁️ DevOps, Cloud & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+| Domain | Core Technologies & Tools |
+| :--- | :--- |
+| **🤖 AI & Machine Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV |
+| **⚡ Automation & Agents** | n8n Workflows, Playwright, Puppeteer, Webhooks, GitHub Actions |
+| **🌐 Frontend & UI** | React.js, Next.js, TypeScript, Tailwind CSS, Vite, Redux, HTML5/CSS3 |
+| **⚙️ Backend & APIs** | Node.js, Express.js, FastAPI, RESTful APIs, WebSockets |
+| **🗄️ Databases & Caching** | PostgreSQL, MongoDB, Redis |
+| **☁️ Cloud & DevOps** | Docker, Google Cloud Platform (GCP), Git, CI/CD Actions, Linux, Postman |
 
 </div>
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured Engineering Projects
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">💻 WebOS — Web Desktop Platform</h3>
+      <!-- PROJECT 1: WebOS -->
+      <td width="50%" valign="top" style="padding: 16px; border-radius: 12px; background: rgba(255,255,255,0.03);">
+        <h3 align="center">🖥️ WebOS — Web Desktop Operating System</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
         </p>
-        <p>Interactive web-based operating system interface with responsive multi-window management, modular apps, and seamless desktop experiences in the browser.</p>
+        <p>A full-featured, browser-based desktop operating system interface. Features responsive multi-window management, taskbar navigation, draggable app windows, and a sleek modern glassmorphic design system.</p>
+        <ul>
+          <li>✨ Custom Window Manager & Desktop State Engine</li>
+          <li>🎨 Glassmorphic UI with dynamic animations</li>
+          <li>⚡ High performance, modular component architecture</li>
+        </ul>
         <p align="center">
-          <a href="https://github.com/muragesh46/webos"><b>Explore WebOS »</b></a>
+          <a href="https://github.com/muragesh46/web-os"><b>🔗 View Repository: muragesh46/web-os »</b></a>
         </p>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">⚡ Marnani — Automation & Intelligence</h3>
+      <!-- PROJECT 2: Marnani / Automation Suite -->
+      <td width="50%" valign="top" style="padding: 16px; border-radius: 12px; background: rgba(255,255,255,0.03);">
+        <h3 align="center">⚡ Intelligent Automation & Workflow Suite</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
           <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
         </p>
-        <p>Scalable workflow automation engine and browser automation suite orchestrating intelligent task executions and resilient API pipelines.</p>
+        <p>Scalable workflow automation engine orchestrating complex tasks, intelligent agent routines, and resilient headless browser automation pipelines with zero-downtime retry mechanisms.</p>
+        <ul>
+          <li>🤖 Automated browser agents with dynamic form handling</li>
+          <li>🔄 Multi-step n8n webhook orchestration pipelines</li>
+          <li>📊 Robust error handling and continuous execution logs</li>
+        </ul>
         <p align="center">
-          <a href="https://github.com/muragesh46/marnani"><b>Explore Marnani »</b></a>
+          <a href="https://github.com/muragesh46"><b>🔗 View Project Ecosystem »</b></a>
         </p>
       </td>
     </tr>
@@ -129,32 +107,40 @@ open_to: Full-Time Software Engineering Roles & Tech Collaborations
 
 ---
 
-### 📬 Connect With Me
+### 🎯 What I Bring to Your Engineering Team
+
+<div align="center">
+
+| 🏗️ Architecture & Code Quality | ⚡ Rapid Prototyping & Execution | 🧠 AI/ML & Automation Mindset |
+| :--- | :--- | :--- |
+| Writing clean, modular, and testable code with maintainable design patterns. | Turning specifications into production-ready software with speed and precision. | Automating repetitive workflows and integrating intelligent ML models into apps. |
+
+</div>
+
+---
+
+### 📬 Get In Touch
 
 <p align="center">
-  <a href="https://github.com/muragesh46" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
+  <b>Looking for a proactive, high-performing software engineer? Let's talk!</b>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/muragesh-mirje/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muragesh_Mirje-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:murageshmirje@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-murageshmirje@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://wa.me/918105588067" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  &nbsp;
-  <a href="tel:+918105588067" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-+91_8105588067-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/WhatsApp-+91_8105588067-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23,28,32&height=110&section=footer" width="100%"/>
 </p>
