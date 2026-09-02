@@ -1,137 +1,91 @@
-<!-- ==================== HEADER ==================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muragesh46/muragesh46/main/assets/banner.svg" alt="Muragesh Mirje Profile Banner" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/muragesh46">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Full+Stack+Software+Engineer;AI+%2F+Machine+Learning+Developer;n8n+%26+Intelligent+Automation+Architect;Crafting+Production-Ready+Modern+Web+Systems;Turning+Complex+Logic+into+Clean+Code" alt="Typing SVG" />
-  </a>
-</p>
+# Muragesh Mirje
+**Software Engineer & Full-Stack Developer**  
+*Building modular web architectures, real-time event systems, and applied computer vision applications.*
+
+[LinkedIn](https://www.linkedin.com/in/muragesh-mirje/) &nbsp;|&nbsp; [GitHub](https://github.com/muragesh46) &nbsp;|&nbsp; [Email](mailto:murageshmirje@gmail.com) &nbsp;|&nbsp; [Live Demos](#-featured-projects)
+
+</div>
 
 ---
 
-### 💫 Executive Summary
+## 👨‍💻 About Me
 
-```yaml
-Name: Muragesh Mirje
-Role: Full Stack & AI/ML Software Engineer
-Specialization: Full-Stack Web Architecture, Machine Learning Pipelines, Intelligent n8n Workflows
-Availability: Open for Full-Time Roles & High-Impact Engineering Collaborations
+I am a Software Engineer based in Bengaluru, passionate about building robust, scalable web platforms and real-time distributed systems. My focus centers on:
+
+- **Modular Frontend Architecture:** Designing intuitive, highly interactive client interfaces using React, Tailwind CSS, and advanced state management.
+- **Event-Driven & MVC Backends:** Engineering REST APIs, real-time WebSocket communication pipelines (Socket.IO), and secure authentication systems with Node.js and Express.
+- **Applied Computer Vision:** Building real-time facial detection and recognition pipelines using Java, OpenCV, and Haar Cascade classifiers.
+
+---
+
+## 🛠️ Technical Stack
+
+```
+Languages:        JavaScript (ES6+), Java, HTML5, CSS3, SQL
+Frontend:         React.js, Tailwind CSS, GSAP, Material-UI, EJS, Vite
+Backend:          Node.js, Express.js, Socket.IO, REST APIs, Passport.js, Multer
+Databases:        MongoDB, Mongoose ODM
+AI & Vision:      JavaCV, OpenCV (Haar Cascades, LBPH, Eigenfaces), Gemini API
+Cloud & DevOps:   Docker, Docker Compose, Vercel, Render, Cloudinary CDN
+Tools & Testing:  Git, GitHub, Maven, Jest, Vitest, Postman, ESLint
 ```
 
-- 💡 **What I Do:** I design and build end-to-end web applications, scalable backend microservices, and AI-powered automation workflows that solve real business problems.
-- 🚀 **Core Expertise:** Modern Frontend (React/Next.js/Tailwind), Robust Backends (Node.js/FastAPI/PostgreSQL/MongoDB), AI/ML modeling (PyTorch/Scikit-Learn), and Autonomous Workflows (n8n/Playwright).
-- 🎯 **Why Hire Me:** I bring end-to-end product ownership — from architecture and clean system design to deployment, performance optimization, and reliable automation.
+---
+
+## 🚀 Featured Projects
+
+### 1. [WebOS — Browser-Based Desktop Operating System](https://github.com/muragesh46/web-os)
+> **Interactive multi-window desktop environment running entirely in the browser.**
+
+* **What it does:** Recreates a complete desktop OS experience featuring draggable, resizable windows, taskbar application launcher, virtual terminal emulator, and an integrated AI assistant.
+* **Why it's interesting:** Implements a decoupled window management state engine using Zustand, optimized smooth window transitions using GSAP, and a containerized Node.js/Socket.IO backend with Docker support.
+* **Tech Stack:** React 19, Vite, Tailwind CSS, Zustand, GSAP, Node.js, Express, Socket.IO, Docker, Vitest
+* **Links:** [Repository](https://github.com/muragesh46/web-os) &nbsp;|&nbsp; [Live Demo](https://web-os-beta-two.vercel.app)
 
 ---
 
-### 🛠️ Technical Arsenal
+### 2. [Marnani — Full-Stack Hospitality Booking Platform](https://github.com/muragesh46/marnani)
+> **Production-deployed Airbnb-style rental web application built with MVC architecture.**
 
-<div align="center">
-
-<!-- Modern Aesthetic Skill Icons Grid -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,js,ts,react,nextjs,tailwind,vite,redux,nodejs,express,fastapi,postgres,mongodb,docker,gcp,git,githubactions,linux,postman,cpp&perline=8&theme=dark" />
-</a>
-
-<br/><br/>
-
-| Domain | Core Technologies & Tools |
-| :--- | :--- |
-| **🤖 AI & Machine Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV |
-| **⚡ Automation & Agents** | n8n Workflows, Playwright, Puppeteer, Webhooks, GitHub Actions |
-| **🌐 Frontend & UI** | React.js, Next.js, Tailwind CSS, Vite, Redux, HTML5/CSS3 |
-| **⚙️ Backend & APIs** | Node.js, Express.js, FastAPI, RESTful APIs, WebSockets |
-| **🗄️ Databases & Storage** | PostgreSQL, MongoDB |
-| **☁️ Cloud & DevOps** | Docker, Google Cloud Platform (GCP), Git, CI/CD Actions, Linux, Postman |
-
-</div>
+* **What it does:** Provides end-to-end property listing discovery, advanced search filters, user authentication, review/rating workflows, and cloud-hosted media uploads.
+* **Why it's interesting:** Implements a resilient MVC architecture with secure session-based authentication (Passport.js), schema validation with Joi, Cloudinary media pipeline via Multer, and relational document modeling with Mongoose.
+* **Tech Stack:** Node.js, Express.js, EJS-Mate, MongoDB, Mongoose, Passport.js, Cloudinary, Joi, Bootstrap
+* **Links:** [Repository](https://github.com/muragesh46/marnani) &nbsp;|&nbsp; [Live Demo](https://marnani.onrender.com/)
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 3. [DriverLocation — Real-Time Fleet Tracking & Dispatch](https://github.com/muragesh46/driverlocation)
+> **Bi-directional real-time telemetry and dispatch dashboard for fleet logistics.**
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- PROJECT 1: WebOS -->
-      <td width="50%" valign="top" style="padding: 16px; border-radius: 12px; background: rgba(255,255,255,0.03);">
-        <h3 align="center">🖥️ WebOS — Web Desktop Operating System</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        </p>
-        <p>A full-featured, browser-based desktop operating system interface. Features responsive multi-window management, taskbar navigation, draggable app windows, and a sleek modern glassmorphic design system.</p>
-        <ul>
-          <li>✨ Custom Window Manager & Desktop State Engine</li>
-          <li>🎨 Glassmorphic UI with dynamic animations</li>
-          <li>⚡ High performance, modular component architecture</li>
-        </ul>
-        <p align="center">
-          <a href="https://github.com/muragesh46/web-os"><b>🔗 View Repository: muragesh46/web-os »</b></a>
-        </p>
-      </td>
-      <!-- PROJECT 2: Marnani - Airbnb Clone -->
-      <td width="50%" valign="top" style="padding: 16px; border-radius: 12px; background: rgba(255,255,255,0.03);">
-        <h3 align="center">🏡 Marnani — Full-Stack Airbnb Platform</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        </p>
-        <p>Full-stack vacation rental and hospitality booking web application. Delivers an interactive property discovery experience, real-time availability filters, and resilient reservation workflows.</p>
-        <ul>
-          <li>🏠 Dynamic property listings, categorized filters & interactive maps</li>
-          <li>🔐 User authentication, reservation management & booking flows</li>
-          <li>⚡ Responsive UI optimized for seamless mobile and desktop browsing</li>
-        </ul>
-        <p align="center">
-          <a href="https://github.com/muragesh46/marnani"><b>🔗 View Repository: muragesh46/marnani »</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+* **What it does:** Allows fleet dispatchers to generate optimized route sequences and track mobile drivers live on an interactive map with minimal latency.
+* **Why it's interesting:** Leverages WebSockets via Socket.IO for low-latency coordinate broadcasting between mobile driver interfaces and dispatcher management views, persisting historical route data in MongoDB.
+* **Tech Stack:** Node.js, Express.js, Socket.IO, Leaflet Maps, MongoDB, Mongoose, EJS
+* **Links:** [Repository](https://github.com/muragesh46/driverlocation)
 
 ---
 
-### 🎯 What I Bring to Your Engineering Team
+### 4. [Face-Detection — Real-Time Computer Vision Pipeline](https://github.com/muragesh46/Face-Detection)
+> **Desktop facial detection, dataset generation, and model training system in Java.**
 
-<div align="center">
-
-| 🏗️ Architecture & Code Quality | ⚡ Rapid Prototyping & Execution | 🧠 AI/ML & Automation Mindset |
-| :--- | :--- | :--- |
-| Writing clean, modular, and testable code with maintainable design patterns. | Turning specifications into production-ready software with speed and precision. | Automating repetitive workflows and integrating intelligent ML models into apps. |
-
-</div>
+* **What it does:** Detects faces from live webcam streams, captures custom training datasets, and classifies identities using multiple computer vision algorithms.
+* **Why it's interesting:** Implements JavaCV native bindings to OpenCV, combining Haar Feature-based Cascade Classifiers with LBPH (Local Binary Pattern Histograms) and Eigenfaces recognition algorithms in a standalone desktop application.
+* **Tech Stack:** Java, JavaCV, OpenCV, Haar Cascades, LBPH, Java Swing, Maven
+* **Links:** [Repository](https://github.com/muragesh46/Face-Detection)
 
 ---
 
-### 📬 Get In Touch
+## 📈 Engineering Competencies
 
-<p align="center">
-  <b>Looking for a proactive, high-performing software engineer? Let's talk!</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muragesh-mirje/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muragesh_Mirje-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:murageshmirje@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-murageshmirje@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/918105588067" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-+91_8105588067-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+* **System Design & RESTful APIs:** Structuring maintainable controllers, middleware, data validation pipelines, and standardized error-handling patterns.
+* **State Management & UI Dynamics:** Managing complex client states (windows, active processes, theme tokens) with declarative React paradigms.
+* **Containerization & Deployment:** Building multi-stage Dockerfiles and automating production rollouts on Vercel and Render.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muragesh46/muragesh46/main/assets/footer.svg" alt="Footer" width="100%"/>
-</p>
+## 📬 Contact & Connect
+
+* **LinkedIn:** [linkedin.com/in/muragesh-mirje](https://www.linkedin.com/in/muragesh-mirje/)
+* **Email:** [murageshmirje@gmail.com](mailto:murageshmirje@gmail.com)
+* **Location:** Bengaluru, Karnataka, India
