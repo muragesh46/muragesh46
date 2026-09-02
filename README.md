@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Muragesh%20Mirje&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%26%20AI%2FML%20Engineer%20%7C%20Scalable%20Systems%20%26%20Intelligent%20Workflows&descFontSize=18&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://raw.githubusercontent.com/muragesh46/muragesh46/main/assets/banner.svg" alt="Muragesh Mirje Profile Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -133,5 +133,5 @@ Availability: Open for Full-Time Roles & High-Impact Engineering Collaborations
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=110&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/muragesh46/muragesh46/main/assets/footer.svg" alt="Footer" width="100%"/>
 </p>
