@@ -45,28 +45,7 @@ Tools & Testing:  Git, GitHub, Maven, Jest, Vitest, Postman, ESLint
 * **Links:** [Repository](https://github.com/muragesh46/web-os) &nbsp;|&nbsp; [Live Demo](https://web-os-beta-two.vercel.app)
 
 ---
-
-### 2. [Marnani — Full-Stack Hospitality Booking Platform](https://github.com/muragesh46/marnani)
-> **Production-deployed Airbnb-style rental web application built with MVC architecture.**
-
-* **What it does:** Provides end-to-end property listing discovery, advanced search filters, user authentication, review/rating workflows, and cloud-hosted media uploads.
-* **Why it's interesting:** Implements a resilient MVC architecture with secure session-based authentication (Passport.js), schema validation with Joi, Cloudinary media pipeline via Multer, and relational document modeling with Mongoose.
-* **Tech Stack:** Node.js, Express.js, EJS-Mate, MongoDB, Mongoose, Passport.js, Cloudinary, Joi, Bootstrap
-* **Links:** [Repository](https://github.com/muragesh46/marnani) &nbsp;|&nbsp; [Live Demo](https://marnani.onrender.com/)
-
----
-
-### 3. [DriverLocation — Real-Time Fleet Tracking & Dispatch](https://github.com/muragesh46/driverlocation)
-> **Bi-directional real-time telemetry and dispatch dashboard for fleet logistics.**
-
-* **What it does:** Allows fleet dispatchers to generate optimized route sequences and track mobile drivers live on an interactive map with minimal latency.
-* **Why it's interesting:** Leverages WebSockets via Socket.IO for low-latency coordinate broadcasting between mobile driver interfaces and dispatcher management views, persisting historical route data in MongoDB.
-* **Tech Stack:** Node.js, Express.js, Socket.IO, Leaflet Maps, MongoDB, Mongoose, EJS
-* **Links:** [Repository](https://github.com/muragesh46/driverlocation)
-
----
-
-### 4. [Face-Detection — Real-Time Computer Vision Pipeline](https://github.com/muragesh46/Face-Detection)
+### 2. [Face-Detection — Real-Time Computer Vision Pipeline](https://github.com/muragesh46/Face-Detection)
 > **Desktop facial detection, dataset generation, and model training system in Java.**
 
 * **What it does:** Detects faces from live webcam streams, captures custom training datasets, and classifies identities using multiple computer vision algorithms.
