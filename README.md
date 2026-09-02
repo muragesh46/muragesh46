@@ -17,16 +17,13 @@
 ```yaml
 name: Muragesh Mirje
 role: Full Stack & AI/ML Developer
-location: India 🇮🇳
-focus: Full-Stack Web Applications, Machine Learning Models & n8n Workflows
 open_to: Full-Time Software Engineering Roles & Tech Collaborations
-superpower: Transforming complex ideas into robust, production-ready software 🚀
 ```
 
-- 🔭 **Currently working on:** Next-generation automation pipelines, AI-assisted tools, and modern web architectures.
-- 🤖 **Passionate about:** Machine Learning, Intelligent Agents, n8n Workflow Automation, and Full-Stack Engineering.
-- 💼 **Recruiters & Engineering Teams:** I'm actively seeking full-time opportunities. Let's connect and build something impactful!
-- ⚡ **Core Strengths:** Fast execution, clean architecture, automated testing, and scalable product delivery.
+- 🔭 **Currently working on:** Next-generation automation pipelines, modern web and AI applications, and backend systems.
+- 🌱 **Learning & Exploring:** Distributed Systems, Cloud Architectures, and AI-powered workflows.
+- 💼 **Recruiters & Engineering Teams:** I'm actively looking for full-time opportunities. Let's build something impactful together!
+- ⚡ **Core Strengths:** Fast execution, clean architecture, automated testing, and end-to-end product delivery.
 
 ---
 
@@ -94,38 +91,6 @@ superpower: Transforming complex ideas into robust, production-ready software �
 </p>
 
 </div>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <!-- Stats & Streak Cards side-by-side -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muragesh46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muragesh46&theme=tokyonight&hide_border=true" alt="Streak Stats" width="49%" />
-  </p>
-
-  <!-- Top Languages Card -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muragesh46&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-  </p>
-
-  <!-- Snake Eating Contributions Animation -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/muragesh46/muragesh46/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  </p>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muragesh46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
-  </a>
-</p>
 
 ---
 
