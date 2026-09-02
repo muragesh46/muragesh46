@@ -1,22 +1,12 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23,28,32&height=240&section=header&text=Muragesh%20Mirje&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20%26%20AI%2FML%20Engineer%20%E2%80%A2%20Building%20Scalable%20Systems%20%26%20Automations&descFontSize=18&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Muragesh%20Mirje&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%26%20AI%2FML%20Engineer%20%7C%20Scalable%20Systems%20%26%20Intelligent%20Workflows&descFontSize=18&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/muragesh46">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Full+Stack+Software+Engineer;AI+%2F+Machine+Learning+Developer;n8n+%26+Intelligent+Automation+Architect;Crafting+Production-Ready+Modern+Web+Systems;Turning+Complex+Logic+into+Clean+Code" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muragesh-mirje/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:murageshmirje@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://wa.me/918105588067"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  &nbsp;
-  <a href="tel:+918105588067"><img src="https://img.shields.io/badge/Call-+91_8105588067-181717?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 ---
@@ -31,7 +21,7 @@ Availability: Open for Full-Time Roles & High-Impact Engineering Collaborations
 ```
 
 - 💡 **What I Do:** I design and build end-to-end web applications, scalable backend microservices, and AI-powered automation workflows that solve real business problems.
-- 🚀 **Core Expertise:** Modern Frontend (React/Next.js/TypeScript), Robust Backends (Node.js/FastAPI/PostgreSQL), AI/ML modeling (PyTorch/Scikit-Learn), and Autonomous Workflows (n8n/Playwright).
+- 🚀 **Core Expertise:** Modern Frontend (React/Next.js/Tailwind), Robust Backends (Node.js/FastAPI/PostgreSQL/MongoDB), AI/ML modeling (PyTorch/Scikit-Learn), and Autonomous Workflows (n8n/Playwright).
 - 🎯 **Why Hire Me:** I bring end-to-end product ownership — from architecture and clean system design to deployment, performance optimization, and reliable automation.
 
 ---
@@ -42,7 +32,7 @@ Availability: Open for Full-Time Roles & High-Impact Engineering Collaborations
 
 <!-- Modern Aesthetic Skill Icons Grid -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,js,ts,react,nextjs,tailwind,vite,redux,nodejs,express,fastapi,postgres,mongodb,redis,docker,gcp,git,githubactions,linux,postman,cpp&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,js,ts,react,nextjs,tailwind,vite,redux,nodejs,express,fastapi,postgres,mongodb,docker,gcp,git,githubactions,linux,postman,cpp&perline=8&theme=dark" />
 </a>
 
 <br/><br/>
@@ -51,9 +41,9 @@ Availability: Open for Full-Time Roles & High-Impact Engineering Collaborations
 | :--- | :--- |
 | **🤖 AI & Machine Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV |
 | **⚡ Automation & Agents** | n8n Workflows, Playwright, Puppeteer, Webhooks, GitHub Actions |
-| **🌐 Frontend & UI** | React.js, Next.js, TypeScript, Tailwind CSS, Vite, Redux, HTML5/CSS3 |
+| **🌐 Frontend & UI** | React.js, Next.js, Tailwind CSS, Vite, Redux, HTML5/CSS3 |
 | **⚙️ Backend & APIs** | Node.js, Express.js, FastAPI, RESTful APIs, WebSockets |
-| **🗄️ Databases & Caching** | PostgreSQL, MongoDB, Redis |
+| **🗄️ Databases & Storage** | PostgreSQL, MongoDB |
 | **☁️ Cloud & DevOps** | Docker, Google Cloud Platform (GCP), Git, CI/CD Actions, Linux, Postman |
 
 </div>
@@ -83,22 +73,23 @@ Availability: Open for Full-Time Roles & High-Impact Engineering Collaborations
           <a href="https://github.com/muragesh46/web-os"><b>🔗 View Repository: muragesh46/web-os »</b></a>
         </p>
       </td>
-      <!-- PROJECT 2: Marnani / Automation Suite -->
+      <!-- PROJECT 2: Marnani - Airbnb Clone -->
       <td width="50%" valign="top" style="padding: 16px; border-radius: 12px; background: rgba(255,255,255,0.03);">
-        <h3 align="center">⚡ Intelligent Automation & Workflow Suite</h3>
+        <h3 align="center">🏡 Marnani — Full-Stack Airbnb Platform</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-          <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
         </p>
-        <p>Scalable workflow automation engine orchestrating complex tasks, intelligent agent routines, and resilient headless browser automation pipelines with zero-downtime retry mechanisms.</p>
+        <p>Full-stack vacation rental and hospitality booking web application. Delivers an interactive property discovery experience, real-time availability filters, and resilient reservation workflows.</p>
         <ul>
-          <li>🤖 Automated browser agents with dynamic form handling</li>
-          <li>🔄 Multi-step n8n webhook orchestration pipelines</li>
-          <li>📊 Robust error handling and continuous execution logs</li>
+          <li>🏠 Dynamic property listings, categorized filters & interactive maps</li>
+          <li>🔐 User authentication, reservation management & booking flows</li>
+          <li>⚡ Responsive UI optimized for seamless mobile and desktop browsing</li>
         </ul>
         <p align="center">
-          <a href="https://github.com/muragesh46"><b>🔗 View Project Ecosystem »</b></a>
+          <a href="https://github.com/muragesh46/marnani"><b>🔗 View Repository: muragesh46/marnani »</b></a>
         </p>
       </td>
     </tr>
@@ -142,5 +133,5 @@ Availability: Open for Full-Time Roles & High-Impact Engineering Collaborations
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23,28,32&height=110&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=110&section=footer" width="100%"/>
 </p>
